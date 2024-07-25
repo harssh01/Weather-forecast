@@ -27,7 +27,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://harssh01.github.io/Weather-forecast/https://harssh01.github.io/Weather-forecast/) :point_left:
+[Live Demo Link](https://harssh01.github.io/Weather-forecast/) :point_left:
 
 ## Getting Started
 - Follow the live demo link and enjoy the site.
